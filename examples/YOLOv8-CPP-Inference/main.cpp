@@ -11,7 +11,7 @@ using namespace cv;
 
 int main(int argc, char **argv)
 {
-    std::string projectBasePath = "/home/user/ultralytics"; // Set your ultralytics base path
+    std::string projectBasePath = "../../"; // Set your ultralytics base path
 
     bool runOnGPU = true;
 
